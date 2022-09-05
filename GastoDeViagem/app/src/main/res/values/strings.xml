@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GastoDeViagem</string>
+    <string name="distance">Distancia</string>
+    <string name="total_value">Total KM</string>
+    <string name="price">Preço</string>
+    <string name="price_pr_litro">Preço por litro</string>
+    <string name="km_pr_lit">Kilometro por Litro</string>
+    <string name="camps">Preencha todos os campos</string>
+    <string name="calculate_value">Calcular valor</string>
+    <string name="distancePercurse">Distancia do percurso</string>
+    <string name="txtLitrosKM">Litro gasto por kilometros rodados</string>
+    <string name="valueBuy">Valor Gasto</string>
+    <string name="valueGast">Valor total</string>
+    <string name="total_gasto">TOTAL GASTO</string>
+    <string name="litro_por_kilometros_rodados">Litro por kilometros rodados</string>
+    <dimen name="defaultText">16sp</dimen>
+    <dimen name="txtValueTotal">20sp</dimen>
+</resources>
